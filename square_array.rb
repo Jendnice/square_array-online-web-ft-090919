@@ -6,3 +6,8 @@ def square_array(array)
   end
   new_array
 end
+
+def
+
+
+a.map { |x| x + "!" }   #=> ["a!", "b!", "c!", "d!"]
