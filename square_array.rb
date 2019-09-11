@@ -7,7 +7,10 @@ def square_array(array)
   new_array
 end
 
-def
-
+def square_array(array)
+  array.map do |number|
+    number ** 2
+  end
+end
 
 a.map { |x| x + "!" }   #=> ["a!", "b!", "c!", "d!"]
